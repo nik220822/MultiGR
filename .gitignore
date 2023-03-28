@@ -1,0 +1,11 @@
+.idea/*
+.gradle/*
+api/build/*
+api/src/test/*
+db/build/*
+db/src/test/*
+service/build/*
+service/src/test/*
+gradle/*
+gradlew
+gradlew.bat
